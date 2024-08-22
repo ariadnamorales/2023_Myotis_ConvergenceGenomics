@@ -3,7 +3,7 @@ Materials generated for a project to investigate the genomic basis of convergenc
 
 The manuscript ["Distinct Genes with Similar Functions Underlie Convergent Evolution in Myotis Bat Ecomorphs"](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msae165/7730189) is open access and published on Molecular Biology and Evolution. 
 
-Reference-based genomes and annotations are available at the [Senckenberg Genome Browser]([https://genome.senckenberg.de/](https://genome.senckenberg.de/cgi-bin/hgGateway)).
+Reference-based genomes and annotations are available at the [Senckenberg Genome Browser](https://genome.senckenberg.de/cgi-bin/hgGateway).
 
 **Species (and browser IDs) included in this study:**<br>
 * *Myotis albescens* 	(HLmyoAlb1)<br>
